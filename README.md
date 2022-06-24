@@ -46,6 +46,9 @@ $ cargo run -r
   - [cargo-chef](https://github.com/LukeMathWalker/cargo-chef)
   - [5x Faster Rust Docker Builds with cargo-chef](https://www.lpalmieri.com/posts/fast-rust-docker-builds/)
   - [Packaging a Rust web service using Docker](https://blog.logrocket.com/packaging-a-rust-web-service-using-docker/)
+- Rust Frameworks
+  - [Which Rust web framework to choose in 2022 (with code examples)](https://kerkour.com/rust-web-framework-2022)
+  - [Web Frameworks](https://www.arewewebyet.org/topics/frameworks/)
 
 ## References
 
