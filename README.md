@@ -7,6 +7,8 @@ Evaluating [Rust](https://www.rust-lang.org/)
 Having installed the Rust Toolchain using [rustup](https://www.rust-lang.org/tools/install)
 
 ```shell
+cd app
+
 # build debug
 $ cargo build
     Finished dev [unoptimized + debuginfo] target(s) in 0.00s
@@ -37,8 +39,13 @@ $ cargo run -r
 
 ## Open Topics
 
-- Code Coverage, cf.:
+- Code Coverage
   - The rustc book [instrument-coverage](https://doc.rust-lang.org/rustc/instrument-coverage.html)
+- Containerization
+  - Official [rust](https://registry.hub.docker.com/_/rust/) image
+  - [cargo-chef](https://github.com/LukeMathWalker/cargo-chef)
+  - [5x Faster Rust Docker Builds with cargo-chef](https://www.lpalmieri.com/posts/fast-rust-docker-builds/)
+  - [Packaging a Rust web service using Docker](https://blog.logrocket.com/packaging-a-rust-web-service-using-docker/)
 
 ## References
 
